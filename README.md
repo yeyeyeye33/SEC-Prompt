@@ -4,7 +4,7 @@
 
 
 Official repository for our CVPR 2025 paper:  
-**“SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning”**
+**“[SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf)”**
 
 ---
 
