@@ -1,0 +1,29 @@
+{
+    "model_name": "sec",
+    "backbone_type": "pretrained_vit_b16_224_vpt",
+    "device": ["1"],
+    "seed": [2025],
+    "dataset": "imagenetr",
+    "init_cls": 100,
+    "increment": 10,
+    "kshot": 5,
+    "vpt_type":"Deep",
+    "kl_weight": 0.001,
+    "tuned_epoch":30,
+    "fs_epoch": 0,
+    "init_lr":0.01,
+    "fs_lr":0.0005,
+    "batch_size":64,
+    "fs_batch_size": 16,
+    "weight_decay":0.005,
+    "min_lr":0,
+    "optimizer":"sgd",
+
+    "fixed_memory": false,
+    "shuffle": false,
+    "top_k": 5,
+    "base_model_path": "sec",
+    "prefix": "sec",
+    "model_prefix": "sec"
+}
+
