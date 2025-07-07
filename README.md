@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
@@ -233,5 +234,4 @@ If you find our work useful, please cite our CVPR 2025 paper:
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
   pages={25643--25656},
   year={2025}
->>>>>>> 91e08948697d43b0fb167ec2854b121c68e4c561
 }
