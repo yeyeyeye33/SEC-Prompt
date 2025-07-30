@@ -27,6 +27,7 @@
     "top_k": 5,
     "base_model_path": "sec",
     "prefix": "sec",
-    "model_prefix": "sec"
+    "model_prefix": "sec",
+    "beta": 0.5
 }
 
